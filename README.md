@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning anything linkened to Dev
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on knowledge if I have summat to share 
-- 📫 How to reach me send me hi 
+- 📫 How to reach me, it's simmple just send me a hi 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The best world's band is fresno from Brazil
 
