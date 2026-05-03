@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @SLIDE2222
-- 👀 I’m interested in Learning anything linkened to Dev
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on knowledge if I have summat to share 
-- 📫 How to reach me, it's simmple just send me a hi 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The best world's band is fresno from Brazil
+# 👋 Hi, I’m @SLIDE2222
 
-<!---
-SLIDE2222/SLIDE2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I’m interested in everything related to Development
+- 🌱 Currently learning:
+  - HTML, CSS (building real pages)
+  - Basic JavaScript (getting into logic)
+  - Python (algorithms & fundamentals)
+- 🧠 Improving problem-solving and thinking like a developer
+- 🔧 Working on personal projects to practice (web + simple systems)
+- 🤝 Open to collaboration if it helps me grow and build real skills
+- 📫 How to reach me: just send a message, I don’t bite
+
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The best band in the world is Fresno (yes, still 🇧🇷)
